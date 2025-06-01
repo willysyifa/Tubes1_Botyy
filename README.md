@@ -17,15 +17,24 @@ Selanjutnya pindah direktori ke folder src dengan command cd src. Lanjutkan deng
 2. Jalankan command di bawah ini untuk menjalankan beberapa bot sekaligus
 
 Windows
+```./run-bots.bat```
 
-./run-bots.bat
 Linux / (possibly) macOS
+```./run-bots.sh```
 
-./run-bots.sh
 Sebelum menjalankan script, ingat untuk mengubah izin script shell agar dapat menjalankan script (linux/macOS)
+```chmod +x run-bots.sh```
 
-chmod +x run-bots.sh
 Note:
 Jika beberapa bot dijalankan bersamaan, pastikan email dan nama unik
 Email dapat berupa apapun asalkan masih sesuai dengan sintaks email yang benar
 Nama dan password bot dibebaskan dan tanpa spasi
+
+# BOTYY
+# Anggota Kelompok
+| NIM        | Nama                       |
+| :--------  | :--------------------------|
+| 123140062  | Jesika Filosovi Br P-A     |
+| 123140062  | Nabila Ramadhani Mujahidin |
+| 123140071  | Willy Syifa Luthfia        |
+
