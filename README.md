@@ -37,5 +37,5 @@ Nama dan password bot dibebaskan dan tanpa spasi
 | 123140062  | Nabila Ramadhani Mujahidin |
 | 123140071  | Willy Syifa Luthfia        |
 
-![BOTYY](URL_Gambar_atau_Path_Relatif)
+
 
